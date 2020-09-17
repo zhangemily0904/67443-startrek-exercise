@@ -28,11 +28,11 @@ var captains: [String: String] = ["kirk": "ncc1701", "sisko": "nx74205", "janewa
 
 var firstOfficers: [String: String] = ["spock": "ncc1701", "kira": "nx74205", "chakotay": "ncc74656", "riker": "ncc1701d", "tpol": "nx01"]
 
-var vulcans: [String] = ["spock", "tuvok", "tpol"]
+var vulcanOfficers: [String] = ["spock", "tuvok", "tpol"]
 
-var humans: [String] = ["sisko", "kirk", "picard", "chakotay", "janeway", "riker", "seven"]
+var humanOfficers: [String] = ["sisko", "kirk", "picard", "chakotay", "janeway", "riker", "seven"]
 
-var females: [String] = ["kira", "dax", "tpol", "janeway", "troi", "seven"]
+var femaleOfficers: [String] = ["kira", "dax", "tpol", "janeway", "troi", "seven"]
 
 /*:
 First, a set of warm-up problems for everyone
