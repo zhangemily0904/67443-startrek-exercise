@@ -9,7 +9,7 @@
  
  **compactMap()**
  ::
- The compactMap() function is effectively the combination of using map() and flatten() in a single call, in that order; useful in handling optionals.
+ The compactMap() function is a variant of map() that removes nil objects and automatically unwraps optional values.
  
  **filter()**
  ::
